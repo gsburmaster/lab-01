@@ -1,3 +1,5 @@
 This is my text 
 
 this is my text, part 2.
+
+This is text from the notSolo branch
